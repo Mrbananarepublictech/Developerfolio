@@ -37,7 +37,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/banana544/",
   gmail: "mrbananathewebdev@gmail.com",
   gitlab: "https://gitlab.com/bananathewebdev",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  facebook: "https://www.facebook.com/martin.ogechukwu",
   medium: "https://medium.com/@mrbananathewebdev",
   stackoverflow: "https://stackoverflowteams.com/c/1/mr-bananathewebdev",
   // Instagram, Twitter and Kaggle are also supported in the links!
